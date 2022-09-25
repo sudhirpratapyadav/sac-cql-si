@@ -1,0 +1,33 @@
+shed:
+  base_path: '../../datasets/density_20/widow_shed/'
+  area_0.53:
+    env_id: 'Widow250GraspEasy-shed-area-53-v0'
+    noise_0.1: 'Widow250GraspEasy-shed-area-53-v0_20K_save_all_noise_0.1_2022-09-04T07-40-24_20000.npy'
+  area_0.32:
+    env_id: 'Widow250GraspEasy-shed-area-32-v0'
+    noise_0.1: 'Widow250GraspEasy-shed-area-32-v0_7K_save_all_noise_0.1_2022-09-13T07-00-27_7200.npy'
+  area_0.10:
+    env_id: 'Widow250GraspEasy-shed-area-10-v0'
+    noise_0.1: 'Widow250GraspEasy-shed-area-10-v0_800_save_all_noise_0.1_2022-09-13T07-51-41_800.npy'
+drawer:
+  base_path: '../../datasets/density_20/widow_drawer/'
+  area_0.53:
+    env_id: 'Widow250DrawerRandomizedOpen-area-53-v0'
+    noise_0.1: 'Widow250DrawerRandomizedOpen-area-53-v0_20K_save_all_noise_0.1_2022-09-04T08-39-18_20000.npy'
+  area_0.32:
+    env_id: 'Widow250DrawerRandomizedOpen-area-32-v0'
+    noise_0.1: 'Widow250DrawerRandomizedOpen-area-32-v0_7K_save_all_noise_0.1_2022-09-13T06-55-38_7200.npy'
+  area_0.10:
+    env_id: 'Widow250DrawerRandomizedOpen-area-10-v0'
+    noise_0.1: 'Widow250DrawerRandomizedOpen-area-10-v0_800_save_all_noise_0.1_2022-09-13T07-49-57_800.npy'
+button:
+  base_path: '../../datasets/density_20/widow_button/'
+  area_0.53:
+    env_id: 'Widow250ButtonPress-area-53-v0'
+    noise_0.1: 'Widow250ButtonPress-area-53-v0_20K_save_all_noise_0.1_2022-09-04T05-48-38_20000.npy'
+  area_0.32:
+    env_id: 'Widow250ButtonPress-area-32-v0'
+    noise_0.1: 'Widow250ButtonPress-area-32-v0_7K_save_all_noise_0.1_2022-09-13T06-31-56_7200.npyy'
+  area_0.10:
+    env_id: 'Widow250ButtonPress-area-10-v0'
+    noise_0.1: 'Widow250ButtonPress-area-10-v0_800_save_all_noise_0.1_2022-09-13T07-48-53_800.npy'
