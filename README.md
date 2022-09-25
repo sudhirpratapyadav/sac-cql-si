@@ -4,7 +4,7 @@ This works implements sequential (or continual) learning in offline RL settings.
 
 # Requirements
 1. pip3 install torch pybullet==3.2.1 matplotlib gtimer gym==0.21.0
-2. Install roboverse ()
+2. Install roboverse (https://github.com/sudhirpratapyadav/roboverse)
 
 # Usage
 Example command
