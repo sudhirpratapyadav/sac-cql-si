@@ -1,5 +1,6 @@
 # sac-cql-si
-This is official code repository of the work: Yadav, Sudhir Pratap, Rajendra Nagar, and Suril V. Shah. "Learning Vision-based Robotic Manipulation Tasks Sequentially in Offline Reinforcement Learning Settings." arXiv preprint arXiv:2301.13450 (2023).
+This is official code repository of the following work
+Yadav, Sudhir Pratap, Rajendra Nagar, and Suril V. Shah. **"Learning Vision-based Robotic Manipulation Tasks Sequentially in Offline Reinforcement Learning Settings."** arXiv preprint arXiv:2301.13450 (2023).
 
 Preprint: https://arxiv.org/abs/2301.13450
 
