@@ -1,4 +1,7 @@
 # sac-cql-si
+This is official code repository of the work: Yadav, Sudhir Pratap, Rajendra Nagar, and Suril V. Shah. "Learning Vision-based Robotic Manipulation Tasks Sequentially in Offline Reinforcement Learning Settings." arXiv preprint arXiv:2301.13450 (2023).
+
+Preprint: https://arxiv.org/abs/2301.13450
 
 This works implements sequential (or continual) learning in offline RL settings. We use SI (Synaptic Intelligence) regularisation based method for continual learning while SAC-CQL method for offline RL.
 
